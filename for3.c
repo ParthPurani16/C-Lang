@@ -7,7 +7,7 @@ int main()
         for (int j = 1; j <= 5; j++)
         {
             if (j - i <= 0)
-                printf("* ");
+                printf("*");
             else
                 printf("  ");
         }
@@ -17,7 +17,7 @@ int main()
         for (int j = 1; j <= 5; j++)
         {
             if (j + i >= 6)
-                printf("* ");
+                printf("*");
             else
                 printf("  ");
         }
